@@ -29,6 +29,7 @@
 + [Bandicam](https://www.bandicam.com/downloads/) - 录屏软件
 + [Foobar2000](http://pan.baidu.com/s/1i5fP0xR) - 本地音乐播放器 (Asion)
 + [Potplayer](http://www.potplayer.org/) - 视频播放器
++ [SwitchHosts](https://github.com/oldj/SwitchHosts/releases) - 快速切换 Hosts ([Github](https://github.com/oldj/SwitchHosts))
 
 
 ## IDE
