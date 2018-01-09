@@ -26,8 +26,9 @@
 + WinRAR - 解压软件
 + [KeePass](http://keepass.info/download.html) - 密码管理软件 ([汉化](http://keepass.info/translations.html)、[KeeOneDriveSync](https://github.com/KoenZomers/KeePassOneDriveSync))
 + [IDM](http://tieba.baidu.com/f?kw=idm) - 非 P2P 下载工具
++ [FDM](https://www.freedownloadmanager.org/) - 支持 P2P 的下载工具
 + [Bandicam](https://www.bandicam.com/downloads/) - 录屏软件
-+ [Foobar2000](http://pan.baidu.com/s/1i5fP0xR) - 本地音乐播放器 (Asion)
++ [Foobar2000](http://blog.sina.com.cn/go2spa) - 本地音乐播放器 (Asion)
 + [Potplayer](http://www.potplayer.org/) - 视频播放器
 + [SwitchHosts](https://github.com/oldj/SwitchHosts/releases) - 快速切换 Hosts ([Github](https://github.com/oldj/SwitchHosts))
 
@@ -43,7 +44,6 @@
 
 ## 开发工具
 
-
 + [TortoiseSVN](https://tortoisesvn.net/downloads.html)
 + [Git](https://git-scm.com/downloads)
 + [WinSCP](https://winscp.net/eng/download.php)
@@ -53,8 +53,15 @@
 + [SourceTree](https://www.sourcetreeapp.com/)
 + [Node.js](https://nodejs.org/en/download/)
 + [Navicat](https://www.navicat.com/download/navicat-premium)
-+ [WeChat DevTools](https://mp.weixin.qq.com/wiki/10/e5f772f4521da17fa0d7304f68b97d7e.html)
++ [DBeaver](https://dbeaver.jkiss.org/download/)
++ [WeChat DevTools](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html)
 + [Fontmin](http://ecomfe.github.io/fontmin/#app) - 从字体库中提取最小子集 ([Github](https://github.com/ecomfe/fontmin))
+
+
+## 抓包
+
++ [Fiddler](https://www.telerik.com/download/fiddler)
++ [Wireshark](https://www.wireshark.org/download.html)
 
 
 ## 娱乐
