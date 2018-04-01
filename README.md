@@ -14,7 +14,7 @@
 
 ## 社交
 
-+ [QQ轻聊版](http://im.qq.com/lightqq/)
++ [QQ TIM](https://im.qq.com/)
 + [WeChat](https://pc.weixin.qq.com/)
 + [Telegram](https://desktop.telegram.org/)
 
@@ -24,13 +24,15 @@
 + [Snipaste](https://zh.snipaste.com/) - 截图工具
 + [PeaZip](http://www.peazip.org/peazip-portable.html) - 解压软件
 + WinRAR - 解压软件
-+ [KeePass](http://keepass.info/download.html) - 密码管理软件 ([汉化](http://keepass.info/translations.html)、[KeeOneDriveSync](https://github.com/KoenZomers/KeePassOneDriveSync))
++ [KeePass](https://keepass.info/download.html) - 密码管理软件 ([汉化](https://keepass.info/translations.html)、[KeeOneDriveSync](https://github.com/KoenZomers/KeePassOneDriveSync))
 + [IDM](http://tieba.baidu.com/f?kw=idm) - 非 P2P 下载工具
 + [FDM](https://www.freedownloadmanager.org/) - 支持 P2P 的下载工具
 + [Bandicam](https://www.bandicam.com/downloads/) - 录屏软件
 + [Foobar2000](http://blog.sina.com.cn/go2spa) - 本地音乐播放器 (Asion)
 + [Potplayer](http://www.potplayer.org/) - 视频播放器
 + [SwitchHosts](https://github.com/oldj/SwitchHosts/releases) - 快速切换 Hosts ([Github](https://github.com/oldj/SwitchHosts))
++ [HashTab](http://implbits.com/products/hashtab/) - 查看文件哈希值
++ [12306Bypass](http://www.12306bypass.com/) - 12306 抢票软件
 
 
 ## IDE
@@ -39,7 +41,7 @@
 + [PhpStorm](https://www.jetbrains.com/phpstorm/)
 + [VSCode](https://code.visualstudio.com/)
 + [Visual Studio](http://msdn.itellyou.cn/?lang=zh-cn)
-+ [Notepad++](https://notepad-plus-plus.org/download/)
++ [Notepad++](https://notepad-plus-plus.org/download/) ([插件管理器](https://github.com/bruderstein/nppPluginManager/releases))
 
 
 ## 开发工具
@@ -47,14 +49,14 @@
 + [TortoiseSVN](https://tortoisesvn.net/downloads.html)
 + [Git](https://git-scm.com/downloads)
 + [WinSCP](https://winscp.net/eng/download.php)
-+ [PuTTY / PuTTYGen](http://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
++ [PuTTY / PuTTYGen](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 + [XShell](https://www.portablesoft.org/xshell/)
 + [Cmder](http://cmder.net/)
 + [SourceTree](https://www.sourcetreeapp.com/)
 + [Node.js](https://nodejs.org/en/download/)
 + [Navicat](https://www.navicat.com/download/navicat-premium)
 + [DBeaver](https://dbeaver.jkiss.org/download/)
-+ [WeChat DevTools](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html)
++ [WeChat DevTools](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html)
 + [Fontmin](http://ecomfe.github.io/fontmin/#app) - 从字体库中提取最小子集 ([Github](https://github.com/ecomfe/fontmin))
 
 
@@ -62,6 +64,12 @@
 
 + [Fiddler](https://www.telerik.com/download/fiddler)
 + [Wireshark](https://www.wireshark.org/download.html)
+
+
+## VPN
+
++ [Array VPN](http://support.arraynetworks.com.cn/troubleshooting/)
++ [OpenVPN](https://openvpn.net/index.php/open-source/downloads.html)
 
 
 ## 娱乐
