@@ -22,6 +22,7 @@
 ## 工具
 
 + [Snipaste](https://zh.snipaste.com/) - 截图工具
++ [Bandizip](https://www.bandisoft.com/bandizip/) - 解压软件
 + [PeaZip](http://www.peazip.org/peazip-portable.html) - 解压软件
 + WinRAR - 解压软件
 + [KeePass](https://keepass.info/download.html) - 密码管理软件 ([汉化](https://keepass.info/translations.html)、[KeeOneDriveSync](https://github.com/KoenZomers/KeePassOneDriveSync))
