@@ -1,22 +1,42 @@
 # 个人常用软件
 
-防止每次重装系统后满世界找安装包
+防止每次重装系统后满世界找安装包。
 
 
 ## 系统
 
-+ [KMSpico](http://kmspico.esy.es/) - KMS 激活软件
-+ [DaBaiCai](http://www.bigbaicai.com/download/) - 装机 U 盘制作工具
-+ [DiskGenius](http://www.diskgenius.cn/download.php) - 磁盘管理工具
-+ [CCleaner](https://www.piriform.com/download) - 系统清理软件
-+ [VMWare](http://www.vmware.com/cn/products/workstation/workstation-evaluation.html) - 虚拟机
+### 管家
+
+- [CCleaner](https://www.ccleaner.com/) ([下载](https://www.ccleaner.com/download)) - 系统清理软件
+- [火绒](https://www.huorong.cn/) ([下载](https://www.huorong.cn/person5.html)) - 安全软件
+
+### 工具
+
+- [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) ([下载](https://crystalmark.info/en/download/#CrystalDiskInfo)) - 硬盘信息检测工具
+- [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) ([下载](https://crystalmark.info/en/download/#CrystalDiskMark)) - 硬盘测速工具
+- [DiskGenius](https://www.diskgenius.cn/) ([下载](https://www.diskgenius.cn/download.php)) - 磁盘管理工具
+- [老白菜](http://www.bigbaicai.com/) ([下载](http://www.bigbaicai.com/download/)) - 装机 U 盘制作工具
+
+### 虚拟机/沙箱
+
+- [Sandboxie-Plus](https://sandboxie-plus.com/) ([下载](https://sandboxie-plus.com/downloads/)、[GitHub](https://github.com/sandboxie-plus/Sandboxie)) - 沙箱
+- [VMware](https://www.vmware.com/) ([下载](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html)) - 虚拟机
 
 
 ## 社交
 
-+ [QQ TIM](https://im.qq.com/)
-+ [WeChat](https://pc.weixin.qq.com/)
-+ [Telegram](https://desktop.telegram.org/)
+### 个人
+
+- [QQ TIM](https://office.qq.com/) ([下载](https://office.qq.com/download.html))
+- [Telegram](https://desktop.telegram.org/)
+- [WeChat](https://pc.weixin.qq.com/)
+
+### 企业
+
+- [钉钉](https://www.dingtalk.com/) ([下载](https://page.dingtalk.com/wow/z/dingtalk/simple/ddhomedownlaod#/))
+- [飞书](https://www.feishu.cn/) ([下载](https://www.feishu.cn/download))
+- [企业微信](https://work.weixin.qq.com/)
+- [腾讯会议](https://meeting.tencent.com/) ([下载](https://meeting.tencent.com/download/))
 
 
 ## 工具
@@ -76,6 +96,7 @@
 
 ## 娱乐
 
-+ [Battle.net](http://tw.battle.net/zh/)
-+ [Steam](http://store.steampowered.com/)
-+ [osu!](https://osu.ppy.sh/)
+- [Battle.net](https://kr.shop.battle.net/zh-tw)
+- [Epic](https://store.epicgames.com/en-US/)
+- [osu!](https://osu.ppy.sh/home) ([下载](https://osu.ppy.sh/home/download)、[GitHub](https://github.com/ppy/osu))
+- [Steam](https://store.steampowered.com/) ([下载](https://store.steampowered.com/about/)、[AugmentedSteam](https://augmentedsteam.com/))
