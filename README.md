@@ -2,6 +2,7 @@
 
 防止每次重装系统后满世界找安装包。
 
+<br>
 
 ## 系统
 
@@ -17,11 +18,14 @@
 - DiskGenius ([官网](https://www.diskgenius.cn/)、[下载](https://www.diskgenius.cn/download.php)) - 磁盘管理工具
 - 老白菜 ([官网](http://www.bigbaicai.com/)、[下载](http://www.bigbaicai.com/download/)) - 装机 U 盘制作工具
 
-### 虚拟机/沙箱
+### 虚拟机/沙箱/模拟器
 
 - Sandboxie Plus ([官网](https://sandboxie-plus.com/)、[下载](https://sandboxie-plus.com/downloads/)、[GitHub](https://github.com/sandboxie-plus/Sandboxie)) - 沙箱
-- VMware ([官网](https://www.vmware.com/)、[下载](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html)) - 虚拟机
+- VMware ([官网](https://www.vmware.com/products/workstation-pro.html)、[下载](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html)) - 虚拟机
+- MuMu模拟器 ([官网](https://mumu.163.com/)、[下载](https://mumu.163.com/update/)) - 安卓模拟器
+- 雷电模拟器 ([官网](https://www.ldmnq.com/)、[下载](https://www.ldmnq.com/other/version-history-and-release-notes.html)) - 安卓模拟器
 
+<br>
 
 ## 社交
 
@@ -38,6 +42,7 @@
 - 企业微信 ([官网](https://work.weixin.qq.com/))
 - 腾讯会议 ([官网](https://meeting.tencent.com/)、[下载](https://meeting.tencent.com/download/))
 
+<br>
 
 ## 工具
 
@@ -50,7 +55,7 @@
 
 - IDM ([贴吧](https://tieba.baidu.com/f?kw=idm)) - 非 P2P 下载工具
 - FDM ([官网](https://www.freedownloadmanager.org/)、[下载](https://www.freedownloadmanager.org/download.htm)) - 支持 P2P 的下载工具
-- 迅雷 ([官网](https://www.xunlei.com/))
+- 迅雷 ([官网](https://www.xunlei.com/)、[下载](https://pc.xunlei.com/))
 
 ### 录屏/直播工具
 
@@ -68,15 +73,20 @@
 - Rclone ([官网](https://rclone.org/)、[下载](https://rclone.org/downloads/)、[GitHub](https://github.com/rclone/rclone)) - 同步工具
 - HashTab ([官网](https://implbits.com/hashtab)) - 查看文件哈希值
 
+<br>
 
 ## 开发
 
-### 文本编辑器
+### 编辑器
 
-- Notepad++ ([官网](https://notepad-plus-plus.org/)、[下载](https://notepad-plus-plus.org/downloads/))
+- Notepad++ ([官网](https://notepad-plus-plus.org/)、[下载](https://notepad-plus-plus.org/downloads/)、[GitHub](https://github.com/notepad-plus-plus/notepad-plus-plus))
+
+### 笔记
+
 - Typora ([官网](https://typora.io/)、[下载](https://typora.io/releases/all))
-- Logseq ([GitHub](https://github.com/logseq/logseq))
+- Logseq ([官网](https://logseq.com/)、[GitHub](https://github.com/logseq/logseq))
 - Obsidian ([官网](https://obsidian.md/)、[下载](https://obsidian.md/download))
+- 思源笔记 ([官网](https://b3log.org/siyuan/)、[下载](https://b3log.org/siyuan/download.html)、[GitHub](https://github.com/siyuan-note/siyuan))
 
 ### IDE
 
@@ -85,12 +95,12 @@
 - Visual Studio Code ([官网](https://code.visualstudio.com/))
 - 微信开发者工具 ([下载](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html))
 
-### 编程语言
+### 编程环境
 
-- Node.js ([官网](https://nodejs.org/en)、[下载](https://nodejs.org/en/download)、[NVM](https://github.com/nvm-sh/nvm)、[NVM for Windows](https://github.com/coreybutler/nvm-windows))
+- Node.js ([官网](https://nodejs.org/)、[下载](https://nodejs.org/en/download)、[NVM](https://github.com/nvm-sh/nvm)、[NVM for Windows](https://github.com/coreybutler/nvm-windows))
 - Deno ([官网](https://deno.land/))
-- JDK ([下载](https://www.oracle.com/hk/java/technologies/downloads/))
-- Rust ([官网](https://www.rust-lang.org/)、[下载](https://www.rust-lang.org/learn/get-started))
+- JDK ([下载](https://www.oracle.com/java/technologies/downloads/))
+- Rust ([官网](https://www.rust-lang.org/)、[下载](https://www.rust-lang.org/tools/install))
 - Go ([官网](https://go.dev/)、[下载](https://go.dev/dl/))
 - Python ([官网](https://www.python.org/)、[下载](https://www.python.org/downloads/))
 
@@ -98,7 +108,7 @@
 
 - DBeaver ([官网](https://dbeaver.io/)、[下载](https://dbeaver.io/download/)、[GitHub](https://github.com/dbeaver/dbeaver))
 - Navicat ([官网](https://www.navicat.com/en/products/navicat-premium)、[下载](https://www.navicat.com/en/download/navicat-premium))
-- MongoDB Compass ([官网](https://www.mongodb.com/products/compass)、[下载](https://www.mongodb.com/try/download/compass))
+- MongoDB Compass ([官网](https://www.mongodb.com/products/tools/compass)、[下载](https://www.mongodb.com/try/download/compass))
 
 ### SSH
 
@@ -113,7 +123,7 @@
 - TortoiseSVN ([官网](https://tortoisesvn.net/)、[下载](https://tortoisesvn.net/downloads.html))
 - SourceTree ([官网](https://www.sourcetreeapp.com/))
 - Postman ([官网](https://www.postman.com/)、[下载](https://www.postman.com/downloads/))
-- SwitchHosts ([官网](https://switchhosts.vercel.app/zh)、[GitHub](https://github.com/oldj/SwitchHosts)) - 快速切换 Hosts
+- SwitchHosts ([官网](https://switchhosts.vercel.app)、[GitHub](https://github.com/oldj/SwitchHosts)) - 快速切换 Hosts
 - Fontmin ([官网](https://ecomfe.github.io/fontmin/)、[GitHub](https://github.com/ecomfe/fontmin)) - 从字体库中提取最小子集
 
 ### 抓包
@@ -127,6 +137,7 @@
 
 - OpenVPN ([官网](https://openvpn.net/)、[下载](https://openvpn.net/community-downloads/))
 
+<br>
 
 ## 娱乐
 
@@ -139,7 +150,7 @@
 - Epic ([官网](https://store.epicgames.com/en-US/))
 - QQ游戏大厅 ([官网](https://qqgame.qq.com/)、[下载](https://qqgame.qq.com/download.shtml))
 
-#### 客户端
+#### 独立客户端游戏
 
 - osu! ([官网](https://osu.ppy.sh/home)、[下载](https://osu.ppy.sh/home/download)、[GitHub](https://github.com/ppy/osu))
 
