@@ -27,6 +27,12 @@
 - MuMu模拟器 ([官网](https://mumu.163.com/)、[下载](https://mumu.163.com/download/)) - 安卓模拟器
 - 雷电模拟器 ([官网](https://www.ldmnq.com/)、[下载](https://www.ldmnq.com/other/version-history-and-release-notes.html)) - 安卓模拟器
 
+### 字体
+
+- 思源宋体 ([官网](https://source.typekit.com/source-han-serif/)、[GitHub](https://github.com/adobe-fonts/source-han-serif/tree/release/)) - 开源免费字体
+- 阿里巴巴普惠体 ([官网](https://www.alibabafonts.com/#/font)) - 开源免费字体
+- Menlo ([下载](https://font.download/font/menlo)) - 等宽字体
+
 <br>
 
 ## 社交
