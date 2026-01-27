@@ -13,6 +13,7 @@
 
 ### 工具
 
+- TrafficMonitor ([GitHub](https://github.com/zhongyang219/TrafficMonitor)) - 网速统计监控工具
 - CrystalDiskInfo ([官网](https://crystalmark.info/en/software/crystaldiskinfo/)、[下载](https://crystalmark.info/en/download/#CrystalDiskInfo)) - 硬盘信息检测工具
 - CrystalDiskMark ([官网](https://crystalmark.info/en/software/crystaldiskmark/)、[下载](https://crystalmark.info/en/download/#CrystalDiskMark)) - 硬盘测速工具
 - DiskGenius ([官网](https://www.diskgenius.cn/)、[下载](https://www.diskgenius.cn/download.php)) - 磁盘管理工具
@@ -220,4 +221,6 @@
 
 - Adobe CCP ([官网](https://www.adobe.com/)、[下载](https://helpx.adobe.com/download-install/apps.html)、[GenP](https://wiki.dbzer0.com/genp-guides/guide/)) - Adobe PR、Adobe AE、Adobe AU、Adobe PS
 - LosslessCut ([官网](https://mifi.no/losslesscut/)、[下载](https://github.com/mifi/lossless-cut)) - 视频无损裁切工具
+- Shutter Encoder ([官网](https://www.shutterencoder.com/)、[GitHub](https://github.com/paulpacifico/shutter-encoder)) - 视频处理工具
 - Youlean Loudness Meter 2 ([官网](https://youlean.co/youlean-loudness-meter/)、[下载](https://youlean.co/download-youlean-loudness-meter/)) - 音频分析软件
+- MediaInfo ([官网](https://mediaarea.net/en/MediaInfo)、[GitHub](https://github.com/MediaArea/MediaInfo)) - 视频分析软件
