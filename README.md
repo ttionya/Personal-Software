@@ -13,7 +13,9 @@
 
 ### 工具
 
+- System Informer ([官网](https://systeminformer.sourceforge.io/)、[下载](https://systeminformer.sourceforge.io/downloads)、[GitHub](https://github.com/winsiderss/systeminformer/)) - 系统资源监控工具
 - TrafficMonitor ([GitHub](https://github.com/zhongyang219/TrafficMonitor)) - 网速统计监控工具
+- Process Explorer ([下载](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer)) - 进程浏览器
 - CrystalDiskInfo ([官网](https://crystalmark.info/en/software/crystaldiskinfo/)、[下载](https://crystalmark.info/en/download/#CrystalDiskInfo)) - 硬盘信息检测工具
 - CrystalDiskMark ([官网](https://crystalmark.info/en/software/crystaldiskmark/)、[下载](https://crystalmark.info/en/download/#CrystalDiskMark)) - 硬盘测速工具
 - DiskGenius ([官网](https://www.diskgenius.cn/)、[下载](https://www.diskgenius.cn/download.php)) - 磁盘管理工具
@@ -40,7 +42,7 @@
 
 ### 个人
 
-- QQ ([官网](https://im.qq.com/index/)、[下载](https://im.qq.com/index/#downloadAnchor))
+- QQ ([官网](https://im.qq.com/index/))
 - QQ TIM ([官网](https://office.qq.com/)、[下载](https://office.qq.com/download.html))
 - WeChat ([官网](https://pc.weixin.qq.com/))
 - Telegram ([官网](https://desktop.telegram.org/))
@@ -72,7 +74,7 @@
 - FDM ([官网](https://www.freedownloadmanager.org/)、[下载](https://www.freedownloadmanager.org/download.htm)) - 支持 P2P 的下载工具
 - 迅雷 ([官网](https://www.xunlei.com/)、[下载](https://pc.xunlei.com/))
 - BBDown ([GitHub](https://github.com/nilaoda/BBDown)) - 哔哩哔哩下载器
-- youtube-dl ([官网](https://ytdl-org.github.io/youtube-dl/)、[GitHub](https://github.com/ytdl-org/youtube-dl)) - youtube 视频下载器
+- youtube-dl ([官网](https://ytdl-org.github.io/youtube-dl/)、[GitHub](https://github.com/ytdl-org/youtube-dl)) - YouTube 视频下载器
 
 ### 内网穿透工具
 
@@ -83,7 +85,7 @@
 ### 其他工具
 
 - Snipaste ([官网](https://zh.snipaste.com/)、[下载](https://zh.snipaste.com/download.html)) - 截图工具
-- uTools ([官网](https://www.u-tools.cn/)、[下载](https://www.u-tools.cn/download/))
+- uTools ([官网](https://www.u-tools.cn/)、[下载](https://www.u-tools.cn/download/)) - 类 Anywhere 工具
 - Bitwarden ([官网](https://bitwarden.com/)、[下载](https://bitwarden.com/download/)) - 密码管理软件
 - KeePass ([官网](https://keepass.info/)、[下载](https://keepass.info/download.html)、[汉化](https://keepass.info/translations.html)) - 密码管理软件
 - 分流抢票 ([官网](https://www.bypass.cn/)) - 12306 抢票软件
@@ -140,8 +142,8 @@
 
 - Git ([官网](https://git-scm.com/)、[下载](https://git-scm.com/install/)、[GitHub](https://github.com/git/git))
 - TortoiseSVN ([官网](https://tortoisesvn.net/)、[下载](https://tortoisesvn.net/downloads.html)、[SourceForge](https://sourceforge.net/p/tortoisesvn/code/HEAD/tree/))
-- SourceTree ([官网](https://www.sourcetreeapp.com/))
-- Postman ([官网](https://www.postman.com/)、[下载](https://www.postman.com/downloads/))
+- SourceTree ([官网](https://www.sourcetreeapp.com/)) - 可视化 Git 工具
+- Postman ([官网](https://www.postman.com/)、[下载](https://www.postman.com/downloads/)) - API 设计调试工具
 - SwitchHosts ([官网](https://switchhosts.vercel.app)、[GitHub](https://github.com/oldj/SwitchHosts)) - 快速切换 Hosts
 - Fontmin ([官网](https://ecomfe.github.io/fontmin/)、[GitHub](https://github.com/ecomfe/fontmin)) - 从字体库中提取最小子集
 
@@ -161,7 +163,7 @@
 - LM Studio ([官网](https://lmstudio.ai/)、[下载](https://lmstudio.ai/download))
 - Dify ([官网](https://dify.ai/)、[GitHub](https://github.com/langgenius/dify))
 - FastGPT ([官网](https://fastgpt.io/)、[GitHub](https://github.com/labring/FastGPT))
-- ComfyUI ([官网](https://www.comfy.org/)、[下载](https://www.comfy.org/download)、[GitHub](https://github.com/comfyanonymous/ComfyUI))
+- ComfyUI ([官网](https://www.comfy.org/)、[下载](https://www.comfy.org/download)、[GitHub](https://github.com/Comfy-Org/ComfyUI))
 - Stable Diffusion web UI ([GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui))
 
 ### 聊天工具
@@ -196,7 +198,7 @@
 #### 加速器
 
 - 雷神加速器 ([官网](https://www.leigod.com/))
-- SSTap ([官网](https://sourceforge.net/projects/sstap/))
+- SSTap ([SourceForge](https://sourceforge.net/projects/sstap/))
 
 #### 云游戏
 
