@@ -17,7 +17,7 @@
 
 | 软件 | 地址 | 说明 |
 | --- | --- | --- |
-| System Informer | [官网](https://systeminformer.sourceforge.io/) / [下载](https://systeminformer.sourceforge.io/downloads) / [GitHub](https://github.com/winsiderss/systeminformer/) | 系统资源监控工具 |
+| System Informer | [官网](https://systeminformer.io/) / [下载](https://systeminformer.io/downloads) / [GitHub](https://github.com/winsiderss/systeminformer/) | 系统资源监控工具 |
 | TrafficMonitor | [GitHub](https://github.com/zhongyang219/TrafficMonitor) | 网速统计监控工具 |
 | Process Explorer | [下载](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) | 进程浏览器 |
 | CrystalDiskInfo | [官网](https://crystalmark.info/en/software/crystaldiskinfo/) / [下载](https://crystalmark.info/en/download/#CrystalDiskInfo) | 硬盘信息检测工具 |
@@ -137,7 +137,7 @@
 
 | 软件 | 地址 | 说明 |
 | --- | --- | --- |
-| WebStorm | [官网](https://www.jetbrains.com/webstorm/) / [下载](https://www.jetbrains.com/webstorm/download/) | |
+| WebStorm | [官网](https://www.jetbrains.com/webstorm/) / [下载](https://www.jetbrains.com/webstorm/download/) / [Crack](https://3.jetbra.in/) | |
 | IntelliJ IDEA | [官网](https://www.jetbrains.com/idea/) / [下载](https://www.jetbrains.com/idea/download/) | |
 | Cursor | [官网](https://cursor.com/) / [下载](https://cursor.com/download) | |
 | Visual Studio Code | [官网](https://code.visualstudio.com/) / [下载](https://code.visualstudio.com/Download) / [GitHub](https://github.com/microsoft/vscode) | |
@@ -180,7 +180,7 @@
 | TortoiseSVN | [官网](https://tortoisesvn.net/) / [下载](https://tortoisesvn.net/downloads.html) / [SourceForge](https://sourceforge.net/p/tortoisesvn/code/HEAD/tree/) | |
 | SourceTree | [官网](https://www.sourcetreeapp.com/) | 可视化 Git 工具 |
 | Postman | [官网](https://www.postman.com/) / [下载](https://www.postman.com/downloads/) | API 设计调试工具 |
-| SwitchHosts | [官网](https://switchhosts.vercel.app) / [GitHub](https://github.com/oldj/SwitchHosts) | 快速切换 Hosts |
+| SwitchHosts | [官网](https://switchhosts.app/) / [GitHub](https://github.com/oldj/SwitchHosts) | 快速切换 Hosts |
 | Fontmin | [官网](https://ecomfe.github.io/fontmin/) / [GitHub](https://github.com/ecomfe/fontmin) | 从字体库中提取最小子集 |
 
 ### 抓包
@@ -203,7 +203,7 @@
 | LM Studio | [官网](https://lmstudio.ai/) / [下载](https://lmstudio.ai/download) | |
 | Dify | [官网](https://dify.ai/) / [GitHub](https://github.com/langgenius/dify) | |
 | FastGPT | [官网](https://fastgpt.io/) / [GitHub](https://github.com/labring/FastGPT) | |
-| ComfyUI | [官网](https://www.comfy.org/) / [下载](https://www.comfy.org/download) / [GitHub](https://github.com/Comfy-Org/ComfyUI) | |
+| ComfyUI | [官网](https://comfy.org/) / [下载](https://comfy.org/download) / [GitHub](https://github.com/Comfy-Org/ComfyUI) | |
 | Stable Diffusion web UI | [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | |
 
 ### 聊天工具
@@ -232,7 +232,7 @@
 | 软件 | 地址 | 说明 |
 | --- | --- | --- |
 | Steam | [官网](https://store.steampowered.com/) / [下载](https://store.steampowered.com/about/) | |
-| Battle.net | [官网](https://kr.shop.battle.net/zh-tw) | |
+| Battle.net | [台服官网](https://kr.shop.battle.net/zh-tw) | |
 | Epic | [官网](https://store.epicgames.com/) | |
 | QQ游戏大厅 | [官网](https://qqgame.qq.com/) | |
 
@@ -241,7 +241,8 @@
 | 软件 | 地址 | 说明 |
 | --- | --- | --- |
 | osu! | [官网](https://osu.ppy.sh/) / [下载](https://osu.ppy.sh/home/download) / [GitHub](https://github.com/ppy/osu) | |
-| 无限暖暖 | [官网](https://infinitynikki.nuanpaper.com/) | |
+| 无限暖暖 | [官网](https://infinitynikki.nuanpaper.com/home) | |
+| 异环 | [官网](https://yh.wanmei.com/main.html) | |
 
 #### 加速器
 
@@ -273,7 +274,7 @@
 | Bandicam | [官网](https://www.bandicam.com/) / [下载](https://www.bandicam.com/downloads/) | 录屏软件 |
 | OBS Studio | [官网](https://obsproject.com/) / [下载](https://obsproject.com/download) / [GitHub](https://github.com/obsproject/obs-studio) | 通用直播软件 |
 | 哔哩哔哩直播姬 | [官网](https://live.bilibili.com/liveHime) | |
-| Nvidia Broadcast | [官网](https://www.nvidia.com/zh-tw/geforce/broadcasting/broadcast-app/) | Nvidia 音视频处理软件 |
+| Nvidia Broadcast | [官网](https://www.nvidia.com/zh-tw/geforce/broadcasting/broadcast-app/) / [离线下载](https://www.nvidia.cn/geforce/broadcasting/broadcast-app/) | Nvidia 音视频处理软件 |
 
 #### 工具
 
